@@ -1,4 +1,5 @@
 # traffic-simulation
-* GoLang?
+* GoLang 1.7
+- gin-gonic
 * JS?
 * Mongo?
